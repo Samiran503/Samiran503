@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Samir</h1>
 
-<!--
-**Samiran503/Samiran503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  A Beginner Developer from India 🇮🇳
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Learning | 🚀 Building | 🌱 Growing
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🙋‍♂️ About Me
+
+- 👋 Hi, I'm Samir Hajong.
+- 🇮🇳 I'm from India.
+- 💻 Interested in Web Development.
+- 🌱 Currently learning HTML, CSS, JavaScript & Python.
+- 🤖 Building my personal AI project ZEEMBA.
+- 🎨 Love designing and creating things.
+- 🎯 My goal is to become a better developer.
+
+---
+
+### 🛠️ Languages & Tools
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git & GitHub
+
+---
+
+### 🚀 My Projects
+
+- 🤖 ZEEMBA – My Personal AI Assistant
+- 🎨 Handmade Website – ZEEMBA
+- 🌐 Personal Web Projects
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samiran503&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Connect With Me
+
+- GitHub: @Samiran503
+
+---
+
+<h3 align="center">
+  Thanks for visiting my profile! ❤️
+</h3>
+
+<p align="center">
+  ⭐ Keep Learning | Keep Building ⭐
+</p>
