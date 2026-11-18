@@ -5,20 +5,20 @@
 </h3>
 
 <p align="center">
-  💻 Learning | 🚀 Building | 🌱 Growing
+   Learning |  Building |  Growing
 </p>
 
 ---
 
-### 🙋‍♂️ About Me
+###  About Me
 
-- 👋 Hi, I'm Samir Hajong.
-- 🇮🇳 I'm from India.
-- 💻 Interested in Web Development.
-- 🌱 Currently learning HTML, CSS, JavaScript & Python.
-- 🤖 Building my personal AI project ZEEMBA.
-- 🎨 Love designing and creating things.
-- 🎯 My goal is to become a better developer.
+-  Hi, I'm Samiran Hajong.
+-  I'm from India.
+-  Interested in Web Development.
+-  Currently learning HTML, CSS, JavaScript & Python.
+-  Building my personal AI project ZEEMBA.
+-  Love designing and creating things.
+-  My goal is to become a better developer.
 
 ---
 
@@ -34,9 +34,9 @@
 
 ### 🚀 My Projects
 
-- 🤖 ZEEMBA – My Personal AI Assistant
-- 🎨 Handmade Website – ZEEMBA
-- 🌐 Personal Web Projects
+-  ZEEMBA – My Personal AI Assistant
+-  Handmade Website – ZEEMBA
+-  Personal Web Projects
 
 ---
 
@@ -46,16 +46,16 @@
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 
 - GitHub: @Samiran503
 
 ---
 
 <h3 align="center">
-  Thanks for visiting my profile! ❤️
+  Thanks for visiting my profile! 
 </h3>
 
 <p align="center">
-  ⭐ Keep Learning | Keep Building ⭐
+   Keep Learning | Keep Building 
 </p>
